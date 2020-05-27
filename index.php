@@ -163,17 +163,17 @@ Choose a template & customize it quickly.</li>
          <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact" style=" background: linear-gradient(rgba(255, 255, 255, 0.8), 
     rgba(255, 255, 255, 0.8)), url('img/cta-bg.jpg') ;    background-size: cover;
-    padding: 80px 0;">
+    padding: 80px 0;margin-left:-70%">
     <div class="container">
 
         <div class="section-title" data-aos="fade-up" >
-          <h2>Contact Us</h2>
+          <h2 style="margin-left:1150px;">Contact</h2>
         </div>
 
         <div class="row">
 
           <div class="col-lg-5 d-flex align-items-stretch" data-aos="fade-right">
-            <div class="info" style="margin-left:75%;">
+            <div class="info" style="margin-left:1000px;">
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
