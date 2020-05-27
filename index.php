@@ -167,13 +167,13 @@ Choose a template & customize it quickly.</li>
     <div class="container">
 
         <div class="section-title" data-aos="fade-up" >
-          <h2 style="margin-left:1150px;">Contact</h2>
+          <h2 style="margin-left:1050px;">Contact</h2>
         </div>
 
         <div class="row">
 
           <div class="col-lg-5 d-flex align-items-stretch" data-aos="fade-right">
-            <div class="info" style="margin-left:1000px;">
+            <div class="info" style="margin-left:900px;">
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
@@ -229,4 +229,5 @@ Choose a template & customize it quickly.</li>
 
 </body>
 </html>
+
 
